@@ -9,7 +9,15 @@
 
 
 Use it on your local PC <br />
-  clone repo; <br />
+  clone repo; <br /> https://github.com/rounit08/infinite-scroll.git <br />
   cd infinite-scroll;<br />
   npm install;<br />
   npm start.
+
+
+For fake Auth: <br />
+
+username: "foo",
+password: "bar"
+
+----------------------
