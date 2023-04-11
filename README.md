@@ -8,8 +8,8 @@
  3) React Router DOM
 
 
-Use it on your local PC
+Use it on your local PC <br />
   clone repo; <br />
-  cd infinite-scroll;
-  npm install;
+  cd infinite-scroll;<br />
+  npm install;<br />
   npm start.
