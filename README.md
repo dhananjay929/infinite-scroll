@@ -9,7 +9,7 @@
 
 
 Use it on your local PC
-  clone repo;
+  clone repo; <br />
   cd infinite-scroll;
   npm install;
   npm start.
